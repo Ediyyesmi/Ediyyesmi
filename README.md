@@ -1,4 +1,9 @@
-<h1 align="center">Hi👋 I'm Seyyide</h1>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=Hi+👋+I'm+Seyyide)
+
+</div>
+
 
 ###
 
